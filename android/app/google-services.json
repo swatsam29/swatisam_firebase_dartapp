@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "79680841419",
+    "project_id": "ssampathkumar-cmsc5303-mobapp",
+    "storage_bucket": "ssampathkumar-cmsc5303-mobapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79680841419:android:a60b453860610d534cdd4e",
+        "android_client_info": {
+          "package_name": "edu.uco.ssampathkumar.cmsc4303.lesson3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79680841419-epp0cgccs5kcltrrqm70trji1cqa988s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_0yIS-mMYW7rpQvewq9b0YQ6IkMx_OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79680841419-epp0cgccs5kcltrrqm70trji1cqa988s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79680841419-ac7853n6qvbas8msc0mvrpm57lh05d62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.uco.ssampathkumar.cmsc4303.lesson3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
